@@ -1,0 +1,7 @@
+{
+  "name": "vivah-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
